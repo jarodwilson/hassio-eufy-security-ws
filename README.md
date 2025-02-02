@@ -1,4 +1,4 @@
-# Official eufy-security-ws Home Assistant add-on repository
+# Forked eufy-security-ws Home Assistant add-on repository (for e30 camera and c34 lock support testing)
 
 ![Logo](eufy-security-ws/logo.png)
 
