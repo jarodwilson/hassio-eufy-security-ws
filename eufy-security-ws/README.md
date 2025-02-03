@@ -38,4 +38,4 @@ See Documentation tab for more details.
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [release-shield]: https://img.shields.io/badge/version-v1.9.1-blue.svg
-[release]: https://github.com/jarodwilson/eufy-security-ws/releases/tag/1.9.2
+[release]: https://github.com/jarodwilson/eufy-security-ws/releases/tag/1.9.3
